@@ -5,3 +5,4 @@ logs/
 *.png
 x_train.pkl
 *.pkl
+*.h5
